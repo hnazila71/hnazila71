@@ -85,12 +85,12 @@ Dec 2021 – Jan 2022
 
 #### Skills, Achievements & Other Experience
 *Technical Skills:*
-- *Machine Learning with Google Cloud:* Expert
+- *Machine Learning with Google Cloud:*
 - *Google Cloud Engineer:* Intermediate
 - *JavaScript Programming:* Beginner
-- *Back-End Applications with Google Cloud:* Beginner
-- *Basic AI:* Beginner
-
+- *Back-End Applications with Google Cloud:* 
+- *Basic AI:* 
+- - *Machine Learning with Google Cloud:*
 *Soft Skills:*
 - *Public Speaking:* Proficient
 - *Time Management:* Proficient
@@ -102,6 +102,6 @@ Available upon request.
 
 ---
 
-### [Download PDF Version](https://drive.google.com/uc?export=download&id=1Ck1ROqcRBU5LCORK63OdhhBBfJkvXPjq)
+### [Download PDF Version](https://drive.google.com/uc?export=download&id=1TERVW90AtKGfEnJd85uos0s8gYzfAGbH)
 
 
