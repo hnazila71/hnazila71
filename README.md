@@ -5,9 +5,10 @@
 
 #### Contact Information
 - *Phone:* +62 851 5633 6236
-- *Email:* hnazila71@gmail.com
+- *Email:* [hnazila71@gmail.com](mailto:hnazila71@gmail.com)
 - *LinkedIn:* [linkedin.com/in/yusuf-hasan-nazila](https://www.linkedin.com/in/yusuf-hasan-nazila)
 - *GitHub:* [github.com/hnazila71](https://github.com/hnazila71)
+- *Portofolio*: [hasanazila.my.id](http://hasanazila.my.id)
 - *Address:* 71 Pekalongan
 
 ---
@@ -32,6 +33,20 @@ Feb 2024 – Jul 2024
 - Integrated machine learning with mobile development using APIs to retrieve and process data.
 - Developed a project on connecting machine learning with mobile development, accessible on [GitHub](https://github.com/hnazila71/Capstone-Database).
 
+*Website Online Shopping Group Project*, Surabaya  
+*Graphic Designer and Evaluator*  
+Dec 2023
+- Create online shopping website with CodeIgniter
+- Designed and created the Website with CodeIgniter
+- Project details available on GitHub
+
+*Website Cinema Booking Group Project*, Surabaya  
+*Graphic Designer and Evaluator*  
+Nov 2023
+- Create cinema booking website with CodeIgniter
+- Designed and created the Website with CodeIgniter
+- Project details available on [GitHub](https://github.com/hnazila71/Cinema-Booking.git)
+
 *Text to Image Generator Group Project*, Surabaya  
 *Evaluator and Trainer Model*  
 Aug 2023 – Nov 2023
@@ -39,11 +54,12 @@ Aug 2023 – Nov 2023
 - Evaluated and trained the model for various imaginative scenarios in Surabaya.
 - Project details available on [GitHub](https://github.com/hnazila71/training-stable-diffusion.git) and [Hugging Face](https://huggingface.co/akmalinn/surabaya_monument_3/).
 
-*Mini Game War Using Java Language Group Project*, Surabaya  
+*Rovirus Game War Using Java Language Group Project*, Surabaya  
 *Software Integrator*  
 Aug 2022 – Sep 2022
 - Integrated multiple code bases to enhance game functionality.
 - Designed game elements and ensured seamless code integration.
+- Project details available on [GitHub](https://github.com/hnazila71/Rovirus-War-Game.git)
 
 ---
 
