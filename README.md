@@ -4,12 +4,11 @@
 ---
 
 #### Contact Information
-- *Phone:* +62 851 5633 6236
 - *Email:* [hnazila71@gmail.com](mailto:hnazila71@gmail.com)
 - *LinkedIn:* [linkedin.com/in/yusuf-hasan-nazila](https://www.linkedin.com/in/yusuf-hasan-nazila)
 - *GitHub:* [github.com/hnazila71](https://github.com/hnazila71)
 - *Portofolio*: [hasanazila.my.id](http://hasanazila.my.id)
-- *Address:* 71 Pekalongan
+
 
 ---
 
