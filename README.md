@@ -65,7 +65,7 @@ Aug 2022 – Sep 2022
 #### Organizational Experience
 *Pemandu FTEIC ITS 2023*, Surabaya  
 *Pemandu Forkom Connectrix FTEIC ITS 2023*  
-May 2023 – Present
+May 2023 – October 2024
 
 *Keluarga Muslim Informatika*, Surabaya  
 *Head of Public Relations Division*  
@@ -117,6 +117,5 @@ Available upon request.
 
 ---
 
-### [Download PDF Version](https://drive.google.com/uc?export=download&id=1AZNK2Etw_cHg8HCnqUtpfFiodxxic4cg)
-
+### [Download PDF Version](https://drive.google.com/uc?export=download&id=1mnsk02aD97D6f3GbLKVLkoVHUMTPtQh0)
 
