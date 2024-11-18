@@ -105,7 +105,7 @@ Dec 2021 – Jan 2022
 - *JavaScript Programming:* Beginner
 - *Back-End Applications with Google Cloud:* 
 - *Basic AI:* 
-- - *Machine Learning with Google Cloud:*
+- *Machine Learning with Google Cloud:*
 *Soft Skills:*
 - *Public Speaking:* Proficient
 - *Time Management:* Proficient
