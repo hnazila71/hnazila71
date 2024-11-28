@@ -13,7 +13,7 @@
 ---
 
 #### Objective
-I am an IT student at Sepuluh Nopember Institute of Technology, specializing in Informatics Engineering. My interests lie in Project Management and Computer Networks. I am currently engaged in the Bangkit Project on Cloud Computing, connecting machine learning with mobile development, set to complete in July 2024. Seeking opportunities to apply my skills and grow as a professional.
+I am an IT student at Sepuluh Nopember Institute of Technology, specializing in Informatics Engineering. My interests lie in Project Management and Computer Networks.  In recent times I have been involved in the Rise Project on Cloud Computing, connecting machine learning with mobile development, set to complete in July 2024. Seeking opportunities to apply my skills and grow as a professional.
 
 ---
 
