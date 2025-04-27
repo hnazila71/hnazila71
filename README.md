@@ -21,7 +21,7 @@ I am an IT student at Sepuluh Nopember Institute of Technology, specializing in 
 *Sepuluh Nopember Institute of Technology*, Surabaya  
 *Bachelor's in Informatics Engineering*  
 Jul 2021 – Present  
-*GPA:* 3.46/4.00
+*GPA:* 3.48/4.00
 
 ---
 
