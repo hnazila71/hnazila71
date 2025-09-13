@@ -20,8 +20,8 @@ An Informatics Engineering graduate from the Sepuluh Nopember Institute of Techn
 ## Education
 **Sepuluh Nopember Institute of Technology, Surabaya**<br>
 *Bachelor's in Informatics Engineering*<br>
-Jul 2021 – Sep 2025 (Expected)<br>
-GPA: 3.51/4.00
+Jul 2021 – Aug 2025 <br>
+GPA: 3.53/4.00
 
 <br>
 
