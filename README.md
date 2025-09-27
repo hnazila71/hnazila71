@@ -26,7 +26,8 @@ GPA: 3.53/4.00
 <br>
 
 **Undergraduate Thesis & Publication**
-*Development of a Payroll Module: Fingerprint Integration and Automated Position-Based Salary Calculation with KinderFin 2.0* - Surabaya
+
+*Payroll Module Development: Fingerprint Integration and Automated Salary Calculation Based on Position Using KinderFin* - Surabaya
 Mar 2025 – Aug 2025
 * Authored a scientific paper based on this project, published in *JURNAL TEKNIK ITS*.
 * Developed a payroll module for the KinderFin 2.0 application that successfully resolved inefficiencies in manual salary systems.
@@ -47,6 +48,15 @@ Aug 2024 – Nov 2024
 ---
 
 ## Study Experience and Projects
+
+*Personal Project: Job Tracker* - Surabaya
+*Full-Stack Developer*
+Sept 2025
+* Developed a full-stack web application to track and manage the status of job applications.
+* Implemented a secure and streamlined user login process using Google Authentication (OAuth 2.0).
+* Built the application using a modern tech stack: Next.js (Frontend), Express.js (Backend API), and PostgreSQL (Database).
+* Accessible live on Vercel, with source code for Frontend and Backend available on GitHub.
+
 *Capstone Project: Animal Pedia – Bangkit Academy* - Bandung
 *Cloud Computing Learning Path*
 Feb 2024 - Jun 2024
