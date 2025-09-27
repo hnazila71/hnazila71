@@ -13,7 +13,7 @@
 ---
 
 ## Objective
-An Informatics Engineering graduate from the Sepuluh Nopember Institute of Technology, having completed all academic requirements and now awaiting formal graduation. I am driven by a deep interest in backend engineering and the architecture of scalable systems, and I am eager to contribute my understanding of the full software lifecycle to help build robust applications. My technical skills are enhanced by a passion for project management and computer networks, making me ready to collaborate in delivering complete technology solutions.
+A 2025 Informatics Engineering graduate from the Sepuluh Nopember Institute of Technology. I am driven by a deep interest in backend engineering and the architecture of scalable systems, and I am eager to contribute my understanding of the full software lifecycle to help build robust applications. My technical skills are enhanced by a passion for project management and computer networks, making me ready to collaborate in delivering complete technology solutions.
 
 ---
 
