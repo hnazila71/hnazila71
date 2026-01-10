@@ -51,6 +51,19 @@ Aug 2024 – Nov 2024
 
 ## Study Experience and Projects
 
+*Personal Project: Microservices Kafka Message Broker - Jakarta
+
+*Backend Developer
+
+Sept 2025
+
+* Designed and implemented microservices architecture using Apache Kafka.
+* Developed API Gateway in Go to route HTTP requests to Python services
+* Built Python FastAPI services with Kafka integration for event-driven communication
+* Project details available on GitHub
+  
+---
+
 *Personal Project: Job Tracker* - Surabaya
 
 *Full-Stack Developer*
