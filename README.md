@@ -51,9 +51,9 @@ Aug 2024 – Nov 2024
 
 ## Study Experience and Projects
 
-*Personal Project: Microservices Kafka Message Broker - Jakarta
+*Personal Project: Microservices Kafka Message Broker* - Jakarta
 
-*Backend Developer
+*Backend Developer*
 
 Sept 2025
 
