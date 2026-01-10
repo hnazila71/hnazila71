@@ -55,7 +55,7 @@ Aug 2024 – Nov 2024
 
 *Backend Developer*
 
-Sept 2025
+Dec 2025
 
 * Designed and implemented microservices architecture using Apache Kafka.
 * Developed API Gateway in Go to route HTTP requests to Python services
