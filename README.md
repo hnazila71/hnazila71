@@ -1,233 +1,119 @@
 # Yusuf Hasan Nazila
-*Aspiring Project Manager, Backend Engineer, and Network Engineer*
+*Aspiring System Analyst, Database Engineer & Backend Engineer*
 
 ---
 
 ## Contact Information
 * **Email:** [hnazila71@gmail.com](mailto:hnazila71@gmail.com)
-* **LinkedIn:** [linkedin.com/in/yusuf-hasan-nazila](https://linkedin.com/in/yusuf-hasan-nazila)
+* **LinkedIn:** [linkedin.com/in/yusuf-hasan-nazila](https://www.linkedin.com/in/yusuf-hasan-nazila)
 * **GitHub:** [github.com/hnazila71](https://github.com/hnazila71)
 * **Portfolio:** [hasanazila.vercel.app](https://hasanazila.vercel.app)
-* **Address:** Pekalongan & Surabaya, Indonesia
+* **Address:** Pekalongan, Indonesia
 
 ---
 
 ## Objective
-I am 2025 Informatics Engineering graduate from the Sepuluh Nopember Institute of Technology. I am driven by a deep interest in backend engineering and the architecture of scalable systems, and I am eager to contribute my understanding of the full software lifecycle to help build robust applications. My technical skills are enhanced by a passion for project management and computer networks, making me ready to collaborate in delivering complete technology solutions.
+I am a 2025 Informatics Engineering graduate from Institut Teknologi Sepuluh Nopember with hands-on experience designing and delivering production-grade systems at PT Midi Utama Indonesia (Alfamidi). I have a strong foundation in system analysis, solution architecture, and full software lifecycle from requirements gathering to deployment with a track record of bridging technical implementation and business needs across multiple projects. I am eager to bring this experience to a System Analyst role where I can contribute to building reliable, scalable technology solutions.
 
 ---
 
 ## Education
-**Sepuluh Nopember Institute of Technology, Surabaya**<br>
+**Institut Teknologi Sepuluh Nopember, Surabaya**<br>
 *Bachelor's in Informatics Engineering*<br>
-Jul 2021 – Aug 2025 <br>
+Aug 2021 – Aug 2025<br>
 GPA: 3.53/4.00
 
-<br>
+---
 
-**Undergraduate Thesis & Publication**
+## Work Experience
+**PT Midi Utama Indonesia (Alfamidi)** — *Head Office Alam Sutera, Tangerang*<br>
+*IT Backend Development Analyst* | Oct 2025 – Present
+* Engineered an end-to-end WhatsApp customer service system via webhook integration, featuring automated bot responses, multi-step issue categorization, shipment lookup, and live-agent escalation, handling 49K+ interactions since March 2025.
+* Built a new in-app customer chat system (bot responses, issue categorization, shipment lookup) integrated with Zendesk via Sunshine Conversations API and webhooks for seamless escalation to live agents.
+* Architected a real-time CS dashboard with SLA monitoring via Server-Sent Events (SSE) for 5–10 agents, providing live visibility into chat queues, response times, and SLA metrics while eliminating manual tracking.
+* Built Midi X Pets (Go Echo, React/TypeScript) and an internal Admin CMS, enabling loyalty member/pet registration, event management, promo discovery, and non-technical content publishing.
+* Integrated MidiKriing with Bank Aladin Direct Debit, enabling instant PIN-based checkout for members.
+* Maintained and scaled the WhatsApp member registration system supporting 179K+ registrations since December with continuous bug fixes and production stability.
 
-*Payroll Module Development: Fingerprint Integration and Automated Salary Calculation Based on Position Using KinderFin* - Surabaya
+---
 
-Mar 2025 – Aug 2025
-* Authored a scientific paper based on this project, published in *JURNAL TEKNIK ITS*.
-* Developed a payroll module for the KinderFin 2.0 application that successfully resolved inefficiencies in manual salary systems.
-* Engineered a system to automate salary calculations based on attendance, allowances, and deductions integrated with job position data.
-* Improved payroll management efficiency by 83.33%, reducing the process from a 30-minute manual task to just 5 minutes within the application.
-* **Technologies:** Node.js, Express.js, Next.js, PostgreSQL, Clean Architecture Modular Structure.
+## Undergraduate Thesis & Publication
+**Payroll Module Development: Fingerprint Integration and Automated Salary Calculation Based on Position Using KinderFin** — *ITS, Surabaya*<br>
+*Full-Stack Developer* | Mar 2025 – Aug 2025
+* Increased payroll processing efficiency by 83%, reducing completion time from 30 minutes to 5 minutes.
+* Developed an automated payroll module for KinderFin 2.0 using Next.js, Express.js, and PostgreSQL (deployed on [Vercel](https://fe-kinderfin-new2-oinx.vercel.app/)), integrating biometric fingerprint attendance with position-based salary calculation to replace a manual process.
+* Authored and published a scientific paper based on the project in *Jurnal Teknik ITS*.
 
 ---
 
 ## Internship
-*PT. Petro Graha Medika*, IT Intern, Hospital Information System (SIRS) Division - Gresik, Indonesia
-
-Aug 2024 – Nov 2024
-* Developed a web-based information system using CodeIgniter and MySQL to monitor device damage and manage inventory stock, improving the efficiency of tracking and repairs.
-* Designed and built a web application for IP address management to streamline network device monitoring and remote troubleshooting for hospital staff.
-* Implemented a Python script using the Pandas library to automate the sorting and cleaning of thousands of rows of attendance and doctor's financial data, significantly enhancing reporting accuracy.
-* Contributed to network infrastructure stability by performing RJ45 crimping to integrate new computers into the hospital's local area network.
+**PT Petro Graha Medika (Petrokimia Gresik)** — *Gresik, Indonesia*<br>
+*IT Intern - Hospital Information System (SIRS) Division* | Aug 2024 – Nov 2024
+* Developed web-based information systems using CodeIgniter and MySQL for device damage monitoring, inventory management, and IP address tracking to streamline hospital IT operations.
+* Automated sorting and cleaning of thousands of rows of attendance and financial data using Python (Pandas), and supported network infrastructure stability through hands-on LAN setup.
 
 ---
 
-## Study Experience and Projects
+## Study Experience & Projects
 
-*Personal Project: Microservices Kafka Message Broker* - Jakarta
+### Personal Project: Microservices Kafka Message Broker — *Jakarta*
+*Backend Developer* | Dec 2025
+* Architected an event-driven microservices system using Apache Kafka for efficient asynchronous communication.
+* Built a scalable Go API Gateway and Python (FastAPI) backend, with full source code available on [GitHub](https://github.com/hnazila71/message-broker-Kafka).
 
-*Backend Developer*
-
-Dec 2025
-
-* Designed and implemented microservices architecture using Apache Kafka.
-* Developed API Gateway in Go to route HTTP requests to Python services
-* Built Python FastAPI services with Kafka integration for event-driven communication
-* Project details available on GitHub
-  
 ---
 
-*Personal Project: Job Tracker* - Surabaya
-
-*Full-Stack Developer*
-
-Sept 2025
-
+### Personal Project: Job Tracker — *Surabaya*
+*Full-Stack Developer* | Sep 2025
 * Developed a full-stack web application to track and manage the status of job applications.
 * Implemented a secure and streamlined user login process using Google Authentication (OAuth 2.0).
-* Built the application using a modern tech stack: Next.js (Frontend), Express.js (Backend API), and PostgreSQL (Database).
-* Accessible live on Vercel, with source code for Frontend and Backend available on GitHub.
-  
+* Built using Next.js (Frontend), Express.js (Backend API), and PostgreSQL (Database).
+* Accessible live on [Vercel](https://jobtracker-hasan.vercel.app/), with source code for [Frontend](https://github.com/hnazila71/Job-Tracker-Frontend.git) and [Backend](https://github.com/hnazila71/Job-Tracker-Backend.git) available on GitHub.
+
 ---
 
-*Capstone Project: Animal Pedia – Bangkit Academy* - Bandung
-
-*Cloud Computing Learning Path*
-
-Feb 2024 - Jun 2024
-
+### Capstone Project: Animal Pedia – Bangkit Academy — *Bandung*
+*Cloud Computing Learning Path* | Feb 2024 – Jun 2024
 * Integrated machine learning with mobile development using APIs to retrieve and process data.
-* Developed a project on connecting machine learning with mobile development, accessible on GitHub.
-  
+* Developed a project on connecting machine learning with mobile development, accessible on [GitHub](https://github.com/GrowUpTeam/Capstone-Project-GrowUp-Team.git).
+
 ---
 
-*Website Online Shopping Group Project* - Surabaya
-
-*Graphic Designer and Evaluator*
-
-Dec 2023
-* Created an online shopping website with CodeIgniter.
-* Designed and created the website with CodeIgniter.
-* Project details available on GitHub.
-  
----
-
-*Website Cinema Booking Group Project* - Surabaya
-
-*Graphic Designer and Evaluator*
-
-Nov 2023
-* Created a cinema booking website with CodeIgniter.
-* Designed and created the website with CodeIgniter.
-* Project details available on GitHub.
-  
----
-
-*Text to Image Generator Group Project* - Surabaya
-*Evaluator and Trainer Model*
-Aug 2023 - Nov 2023
+### Text to Image Generator Group Project — *Surabaya*
+*Evaluator and Trainer Model* | Aug 2023 – Nov 2023
 * Combined user-generated images with Surabaya-themed backgrounds.
 * Evaluated and trained the model for various imaginative scenarios in Surabaya.
-* Project details available on GitHub and Hugging Face.
-  
----
-
-*Rovirus Mini Game Group Project* - Surabaya
-*Software Integrator*
-Aug 2022 - Sep 2022
-* Integrated multiple code bases to enhance game functionality.
-* Designed game elements and ensured seamless code integration.
-* Project details available on GitHub.
+* Project details available on [GitHub](https://github.com/hnazila71/training-stable-diffusion.git) and [Hugging Face](https://huggingface.co/akmalinn/surabaya_monument_3/).
 
 ---
 
-## Organizational Experience
-*Pemandu FTEIC ITS 2023* - Surabaya
-
-*Pemandu Forkom Connectrix FTEIC ITS 2023*
-
-May 2023 – Nov 2024
-
-* Coordinated faculty and departmental managerial training events.
-  
----
-
-*Keluarga Muslim Informatika* - Surabaya
-
-*Head of Public Relations Division*
-
-Feb 2023 - Mar 2024
-
-* Established and maintained relationships with other departments and organizations within ITS.
-  
----
-
-*UKM TENIS LAPANGAN ITS* - Surabaya
-
-*Division Member of Big Event*
-
-Jan 2022 - Dec 2023
-
-* Managed and executed all major events at the Tennis Club (UKM).
-  
----
-
-*KFU 2022 & 2023, SMA N 1 PEKALONGAN* - Pekalongan
-
-*Speaker*
-
-Jan 2022 & Jan 2023
-
-* Introduced state university majors and campus life to high school students.
-  
----
-
-*KPU HMTC* - Surabaya
-
-*Campaign and Documentation Staff*
-
-Nov 2022 - Jan 2023
-
-* Planned and executed effective campaigns and maintained organized documentation.
-  
----
-
-*Mentor for Islamic Studies ITS 2022/2023* - Surabaya
-
-*Mentor*
-
-Oct 2022 - Nov 2022
-
-* Conducted mentoring sessions and assessed mentee progress.
+## Organisational Experience
+* **Pemandu FTEIC ITS 2023** — *Pemandu Forkom Connectrix FTEIC ITS 2023* | Surabaya (May 2023 – Nov 2024)
+  * Coordinated faculty and departmental managerial training events.
+* **Keluarga Muslim Informatika** — *Head of Public Relations Division* | Surabaya (Feb 2023 – Mar 2024)
+  * Established and maintained relationships with other departments and organizations within ITS.
+* **KPU HMTC** — *Campaign and Documentation Staff* | Surabaya (Nov 2022 – Jan 2023)
+  * Planned and executed effective campaigns and maintained organized documentation.
+* **Mentor for Islamic Studies ITS 2022/2023** — *Mentor* | Surabaya (Oct 2022 – Nov 2022)
+  * Conducted mentoring sessions and assessed mentees.
 
 ---
 
 ## Skills
 **Technical Skills:**
-* **Expert:** HTML, JavaScript, C++, C, MySQL, PostgreSQL, PHP
-* **Intermediate:** Google Cloud Platform (GCP), Python, CSS.
-* **Beginner:** Machine Learning with Google Cloud
+* **Expert:** HTML & CSS, JavaScript, C++ & C, MySQL, PostgreSQL, Golang
+* **Intermediate:** Google Cloud Platform (GCP), Python, CodeIgniter, Docker
+* **Beginner:** Machine Learning with Google Cloud, Redis
 
 **Soft Skills:**
-* **Proficient:** Public Speaking, Time Management, Leadership, Analytical Thinking, Communication, Adaptability and Flexibility, Innovative and Problem Solving, Teamwork.
+* **Proficient:** Public Speaking, Time Management, Leadership, Analytical Thinking, Communication, Adaptability and Flexibility, Teamwork
 
 ---
 
 ## Leadership & Management Training
-*Advanced Student Management Training (LKMM Pelatihan Pemandu - PP)* - Surabaya
-
-*Participant*
-
-2023
-
+**Advanced Student Management Training (LKMM Pelatihan Pemandu - PP)** — *Surabaya*<br>
+*Participant* | 2023
 * Completed advanced training focused on facilitation methodologies, instructional design, and strategic leadership to qualify as a trainer.
-  
----
-
-*Intermediate Student Management Training (LKMM-TD)* - Surabaya
-
-*Participant*
-
-2022
-
-* Acquired skills in organizational management, advanced teamwork, and project planning for effective team leadership.
-  
----
-
-*Pre-Basic Student Management Training (LKMM Pra-TD)* - Surabaya
-
-*Participant*
-
-2021
-
-* Acquired foundational skills in self-management, communication, and basic teamwork.
 
 ---
 
@@ -236,4 +122,4 @@ Available upon request.
 
 ---
 
-### [Download PDF Version](https://drive.google.com/uc?export=download&id=1f1sYCZMY__ka1_wPvsNWbXypurvZnXnY)
+### [Download PDF Version](https://hasanazila.vercel.app/api/cv)
